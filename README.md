@@ -37,7 +37,7 @@ Das Spiel "Spiel des Lebens" ist ein zellulärer Automat, bei dem jeder Zelle au
 ## Beispiele für Muster
 
 - **Statisch:**
-    ![Statisches Muster](static_pattern![Block](https://github.com/dtyurin01/praktikum_11_3_FH_Aachen_GameOfLife/assets/30621310/3a28df9e-046f-4477-be9a-7b1afaef0ba0)
+      ![Block](https://github.com/dtyurin01/praktikum_11_3_FH_Aachen_GameOfLife/assets/30621310/de979426-d353-4286-ba5f-b865b30192d8)
 .png)
 
 - **Bewegend:**
