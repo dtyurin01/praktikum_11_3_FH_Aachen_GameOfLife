@@ -46,4 +46,4 @@ Das Spiel "Spiel des Lebens" ist ein zellulärer Automat, bei dem jeder Zelle au
     ![Glider](https://github.com/dtyurin01/praktikum_11_3_FH_Aachen_GameOfLife/assets/30621310/6c33c183-2796-46b3-89e3-d32ec7a833c7)
 ---
 
-Autor: Ihr Benutzername [@your_username](https://github.com/your_username)
+Autor: Ihr Benutzername [@dtyurin01](https://github.com/dtyurin01)
