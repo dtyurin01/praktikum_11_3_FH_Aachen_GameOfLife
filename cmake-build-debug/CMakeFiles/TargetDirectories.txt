@@ -1,0 +1,3 @@
+C:/Users/dtyur/CLionProjects/praktikum_11_3_FH_Aachen_GameOfLife/cmake-build-debug/CMakeFiles/praktikum_11_3_FH_Aachen_GameOfLife.dir
+C:/Users/dtyur/CLionProjects/praktikum_11_3_FH_Aachen_GameOfLife/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dtyur/CLionProjects/praktikum_11_3_FH_Aachen_GameOfLife/cmake-build-debug/CMakeFiles/rebuild_cache.dir

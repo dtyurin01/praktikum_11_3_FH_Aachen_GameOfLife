@@ -1,0 +1,8 @@
+# ninja log v5
+3	491	7254689443002345	build.ninja	db73359bbadf8b20
+1	10842	7254689551926039	CMakeFiles/praktikum_11_3_FH_Aachen_GameOfLife.dir/Game-of-Life-Programmgeruest.cpp.obj	5159bef20a8877a5
+10852	12680	7254689570453789	praktikum_11_3_FH_Aachen_GameOfLife.exe	c0c70b5414fbe6d8
+34	10060	7254700200741664	CMakeFiles/praktikum_11_3_FH_Aachen_GameOfLife.dir/Game-of-Life-Programmgeruest.cpp.obj	5159bef20a8877a5
+10061	10934	7254700209477590	praktikum_11_3_FH_Aachen_GameOfLife.exe	c0c70b5414fbe6d8
+21	9946	7254706529775236	CMakeFiles/praktikum_11_3_FH_Aachen_GameOfLife.dir/Game-of-Life-Programmgeruest.cpp.obj	5159bef20a8877a5
+9948	10722	7254706537620367	praktikum_11_3_FH_Aachen_GameOfLife.exe	c0c70b5414fbe6d8
